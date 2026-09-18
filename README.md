@@ -40,8 +40,8 @@
 
 ### 🔥 Featured Projects
 
-* **[Tipsy Theory App](https://github.com/Emmanu-hec2a/tipsytheoryy_app)** — Cross-platform mobile application built with Dart & Flutter.
-* **[Tipsy Backend](https://github.com/Emmanu-hec2a/tipsybackend)** — Scalable backend API featuring Django REST Framework and PostgreSQL.
+* **[PourXpress App](https://github.com/Emmanu-hec2a/tipsytheoryy_app)** — Cross-platform mobile application built with Dart & Flutter.
+* **[PourXpress Backend](https://github.com/Emmanu-hec2a/tipsybackend)** — Scalable backend API featuring Django REST Framework and PostgreSQL.
 * **[Utonga Cons](https://github.com/Emmanu-hec2a/utonga-cons)** — Web application leveraging React.js for intuitive UI performance.
 
 ---
